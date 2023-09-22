@@ -4,7 +4,13 @@ Final project for Batch 1190 Web Development course.<br><br>
 This Web App allows user to create an itinerary for their trip with a single click of a button.<br>
 After creating a trip with the destination and dates, a user will save all the location they want to go on their vacation, and the app will create the itinerary for you based on how far the locations are from each other to minimize travel time for your holiday.<br>
 
-_DROP SCREENSHOT HERE_
+<div class="row">
+<img src="https://tyhyun.me/images/projects/smart1.png" width="13%">
+<img src="https://tyhyun.me/images/projects/smart2.png" width="13%">
+<img src="https://tyhyun.me/images/projects/smart3.png" width="13%">
+<img src="https://tyhyun.me/images/projects/smart4.png" width="13%">
+<img src="https://tyhyun.me/images/projects/smart5.png" width="13%">
+</div>
 <br>
 App home: https://www.smartvacay.app
 
